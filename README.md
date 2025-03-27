@@ -37,7 +37,7 @@ This repository contains a Python implementation of a Decision Tree Classifier u
 
 ## Project Structure
 
-| [Decision_Tree_Assignment.ipynb]() | # Jupyter Notebook for training & visualization
+| [Decision_Tree_Assignment.ipynb](https://github.com/jaytamkhane/Decision-Tree/blob/main/Decision_Tree_Assignment.ipynb) | # Jupyter Notebook for training & visualization
 
 ## License
 
